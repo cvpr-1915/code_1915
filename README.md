@@ -1,5 +1,5 @@
 #### Nvidia environments:
-Nvidia Driver Verseion: 460.91.03  
+Nvidia Driver Version: 460.91.03  
 CUDA Version: 10.2  
 GPU: TITAN RTX 24GB  
 
